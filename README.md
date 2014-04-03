@@ -12,3 +12,5 @@ The animals are brightly colored, cute and easy to handle shapes (probably made 
 Additional incentives could include timed activities, group competitions, collectible badges, etc.
 
 This repo documents the electronics that allow animals to treact to their placement on the map.
+
+The "Tests" directory stores all my experiments while the "Final Code" will contain the final prototype.
